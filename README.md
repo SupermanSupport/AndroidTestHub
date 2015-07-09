@@ -1,2 +1,4 @@
 # AndroidTestHub
-Github Tutorial
+Github Tutorial 
+Sluzy pokazaniu probki mozliwosci
+
